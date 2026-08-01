@@ -1,6 +1,7 @@
-<p align="center"><img src="assets/logo-v2.png" width="300"></p>
-
 <h1 align="center">claude-whip</h1>
+
+
+<p align="center"><img src="assets/logo-v2.png" width="300"></p>
 
 
 Solving actual problems of Claude with zero overhead and full transparency. This plugin is literally ~5 lines of code.
