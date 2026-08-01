@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Answer without yapping: lead with the answer, no preamble, no recap, few sentences.'"
+          }
+        ]
+      }
+    ]
+  }
+}
