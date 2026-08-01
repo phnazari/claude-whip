@@ -1,5 +1,5 @@
 {
-  "name": "away",
+  "name": "whip",
   "description": "No-yap responses + /away mode: native Claude-app push notifications whenever something new lands",
   "version": "0.1.0",
   "author": { "name": "Philipp Nazari" }

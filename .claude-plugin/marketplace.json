@@ -1,5 +1,5 @@
 {
-  "name": "away",
+  "name": "whip",
   "owner": { "name": "Philipp Nazari" },
-  "plugins": [ { "name": "away", "source": "./", "description": "No-yap responses + /away native push-notification mode" } ]
+  "plugins": [ { "name": "whip", "source": "./", "description": "No-yap responses + /away native push-notification mode" } ]
 }

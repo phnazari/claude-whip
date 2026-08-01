@@ -1,4 +1,4 @@
-# away
+# claude-whip
 
 Two things, zero configuration:
 
@@ -11,8 +11,8 @@ Two things, zero configuration:
 ## Install
 
 ```
-/plugin marketplace add phnazari/claude-away
-/plugin install away
+/plugin marketplace add phnazari/claude-whip
+/plugin install whip
 ```
 
 ## Requirements
