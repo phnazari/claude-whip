@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo 'Answer without yapping: lead with the answer, no preamble, no recap.'"
+            "command": "echo 'Answer without yapping: lead with the answer, no preamble, no recap.'; [ -f \"$HOME/.claude/.away\" ] && echo 'AWAY MODE is ON: end this turn by calling the PushNotification tool with a one-line outcome.'"
           }
         ]
       }
