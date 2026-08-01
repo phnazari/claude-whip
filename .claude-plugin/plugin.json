@@ -4,6 +4,5 @@
   "version": "0.1.0",
   "author": {
     "name": "Philipp Nazari"
-  },
-  "hooks": "./hooks/hooks.json"
+  }
 }
