@@ -1,5 +1,8 @@
 # claude-whip
 
+<p align="center"><img src="assets/logo.png" width="300"></p>
+
+
 Solving actual problems of Claude with zero overhead and full transparency. This plugin is literally ~5 lines of code.
 Two things, zero configuration:
 
