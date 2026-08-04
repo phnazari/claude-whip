@@ -4,12 +4,17 @@
 <p align="center"><img src="assets/logo-v2.png" width="200"></p>
 
 
-Solving actual problems of Claude with zero overhead and full transparency. This plugin is literally ~5 lines of code.
-Two things, zero configuration:
+Solving actual problems of Claude with zero overhead and full transparency, in a handful of tiny markdown files. Zero configuration.
 
-1. **No yap.** Every prompt is auto-suffixed with a brevity instruction, telling claude: **no yap**!
-2. **`/away` mode.** Leaving your desk? `/away`. Claude pushes a one-line notification to
-   your phone (native Claude app, via Remote Control) every time something new lands. `/back` when you return.
+## Features
+
+| Feature | What it does |
+|---|---|
+| **No yap** (hook) | Auto-suffixes every prompt with a brevity instruction: lead with the answer, no preamble, no recap. |
+| **`/away`** | Leaving your desk? Claude pushes a one-line notification to your phone (native Claude app) every time something new lands. |
+| **`/back`** | You're back; pushes stop. |
+| **`/write-self-handoff`** | Before `/compact`: saves session-specific state (job IDs, exact numbers, ruled-out hypotheses, paths) to a dated file on disk. |
+| **`/read-self-handoff`** | After `/compact`: reads the latest handoff back and resumes with full context. |
 
 ## Install
 
